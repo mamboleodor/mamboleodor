@@ -1,31 +1,49 @@
 -**🌟 Welcome to my GitHub Profile! 🌟**
 
-Hey there! I'm Dorine Mamboleo.
-A passionate Front End Developer and UI/UX Designer
-with a flair for crafting immersive digital experiences. 👨‍💻✨
 
-### About Me
-I thrive on the intersection of creativity and technology, 
-constantly pushing boundaries to deliver user-centric designs and pixel-perfect code.
-With a keen eye for detail and a deep understanding of user psychology, 
-I aim to create interfaces that not only look stunning but also provide seamless and intuitive user experiences.
+👋 Hi, I’m Dorine Mamboleo
 
-### What I Bring to the Table
-- **Front End Wizardry:** Armed with HTML, CSS, and JavaScript, I breathe life into designs,
-  ensuring they are not just visually appealing but also functional and responsive across all devices.
-  
-- **UI/UX Sorcery:** From wireframes to prototypes, I architect interfaces that captivate and engage users,
-  leveraging principles of design thinking and user-centered design.
- 
-- **Passion for Innovation:** I'm always exploring new technologies and trends,
- staying ahead of the curve to deliver cutting-edge solutions that leave a lasting impression.
+Front-End Developer & UI/UX Designer focused on building usable, accessible, and well-structured web interfaces.
 
+I work at the intersection of design and engineering, translating ideas and user needs into clean, responsive, and maintainable front-end solutions. I care less about hype and more about clarity, usability, and real-world impact.
 
+🛠 What I Do
 
-### Let's Connect!
-I'm always open to collaboration and eager to learn from fellow developers and designers.
-Whether it's discussing the latest tech trends or brainstorming ideas for a new project,
-don't hesitate to reach out. Let's create something amazing together! 🤝
+Front-End Development
+
+Build responsive interfaces using HTML, CSS, and JavaScript
+
+Convert designs into scalable, reusable UI components
+
+Focus on performance, consistency, and cross-device compatibility
+
+UI/UX Design
+
+Design wireframes and prototypes with usability in mind
+
+Apply user-centered design principles to reduce friction and improve flow
+
+Design with accessibility and inclusivity as non-negotiables
+
+Problem-Solving Mindset
+
+I ask why before jumping into code
+
+I iterate based on feedback, not assumptions
+
+I’m constantly learning and refining my process
+
+🚀 Currently Exploring
+
+Modern front-end workflows and frameworks
+
+Better design-to-code handoff practices
+
+How good UX directly impacts user trust and adoption
+
+🤝 Let’s Connect
+
+I’m open to collaboration, feedback, and meaningful projects — especially those focused on tech for good, usability, and digital inclusion.
 
 ### Get in Touch
 📧 Email: magerodorine01@gmail.com  
