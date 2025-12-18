@@ -1,15 +1,16 @@
 -**🌟 Welcome to my GitHub Profile! 🌟**
 
 
+
 👋 Hi, I’m Dorine Mamboleo
 
 Front-End Developer & UI/UX Designer focused on building usable, accessible, and well-structured web interfaces.
 
-I work at the intersection of design and engineering, translating ideas and user needs into clean, responsive, and maintainable front-end solutions. I care less about hype and more about clarity, usability, and real-world impact.
+   I work at the intersection of design and engineering, translating ideas and user needs into clean, responsive, and maintainable front-end solutions. I care less about hype    and more about clarity, usability, and real-world impact.
 
-🛠 What I Do
+ What I Do
 
-Front-End Development
+     Front-End Development
 
 Build responsive interfaces using HTML, CSS, and JavaScript
 
@@ -17,37 +18,40 @@ Convert designs into scalable, reusable UI components
 
 Focus on performance, consistency, and cross-device compatibility
 
+
 UI/UX Design
 
-Design wireframes and prototypes with usability in mind
 
-Apply user-centered design principles to reduce friction and improve flow
+     Design wireframes and prototypes with usability in mind
 
-Design with accessibility and inclusivity as non-negotiables
+     Apply user-centered design principles to reduce friction and improve flow
 
-Problem-Solving Mindset
+      Design with accessibility and inclusivity as non-negotiables
 
-I ask why before jumping into code
+      Problem-Solving Mindset
 
-I iterate based on feedback, not assumptions
+      I ask why before jumping into code
 
-I’m constantly learning and refining my process
+      I iterate based on feedback, not assumptions
+
+      I’m constantly learning and refining my process
+
+
 
 🚀 Currently Exploring
 
-Modern front-end workflows and frameworks
+        Modern front-end workflows and frameworks
 
-Better design-to-code handoff practices
+        Better design-to-code handoff practices
 
-How good UX directly impacts user trust and adoption
+       How good UX directly impacts user trust and adoption
 
-🤝 Let’s Connect
-
+ 🤝 Let’s Connect
 I’m open to collaboration, feedback, and meaningful projects — especially those focused on tech for good, usability, and digital inclusion.
 
+
 ### Get in Touch
-📧 Email: magerodorine01@gmail.com  
-🐦 Twitter: https://twitter.com/techbaddie_  
+      📧 Email: magerodorine01@gmail.com  
 
 
 Thanks for dropping by! Enjoy exploring my work, and remember, the best is yet to come. 🎨💻✨
