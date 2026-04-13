@@ -24,4 +24,4 @@ I turn ideas into responsive, user-focused products—balancing design and code 
 ### Let’s connect
 Open to collaboration, feedback, and meaningful projects—especially in tech for good and digital inclusion.
 
-📧 Email: your@email.com
+📧 Email:magerodorine01@gmail.com
